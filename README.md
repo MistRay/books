@@ -2,9 +2,16 @@
 - Java多线程编程核心技术
 - Java并发编程的艺术
 - Java并发编程实战
+- Java并发编程-核心方法与框架
+- 图解Java多线程设计模式
+# 网络编程
+- 图解TCP/IP
+- Http权威指南
+- 图解Http
 # 微服务
 - Spring Cloud微服务实战
 - 微服务那些事儿 
+- Docker容器与容器云
 # 框架
 - Spring技术内幕
 - Spring Boot 2精髓
