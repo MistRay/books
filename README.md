@@ -14,6 +14,7 @@
 - 微服务那些事儿 
 - Docker容器与容器云
 - Spring微服务实战
+- 重新定义SpringCloud实战
 # 框架
 - Spring技术内幕
 - Spring Boot 2精髓
