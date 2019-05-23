@@ -19,6 +19,7 @@
 - Spring技术内幕
 - MyBatis技术内幕
 - Netty实战
+- SpringBoot编程思想
 # Java
 - head first java
 - thinking in java
